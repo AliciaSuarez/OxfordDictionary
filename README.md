@@ -1,2 +1,2 @@
-# OxfordDiccionary
+# OxfordDictionary
 Code test
